@@ -132,3 +132,4 @@ Here’s how I use them today:
 Browsers aren’t just tools anymore—they’re ecosystems with personalities. Chrome is reliable but plain, Brave is the privacy warrior, Edge is the office companion, Arc is the fallen star, Zen is the fresh hope, Firefox is the rebel veteran, and Comet is the futuristic experiment.
 
 Instead of waiting for one “perfect” browser, I’ve learned to enjoy the variety. Different jobs, different browsers—and honestly, that works better than forcing one to do it all.
+
